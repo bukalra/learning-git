@@ -13,15 +13,5 @@ for keys,values in cap_prod.items():
     print(f'Ide do {keys.capitalize()},kupuje tu nastepujace rzeczy: {cap_prod[keys]}')
 print(f'W sumie kupuje {i} produktow.')
 
-#zadanie 2 
-mod_five = list()
-pow_three = list()
-for num in range(1, 100):
-    if num%5==0:
-        mod_five.append(num)
-        pow_three.append(num**3)
-print(str(mod_five)[1:-1])
-print(str(pow_three)[1:-1])
-
 
 
