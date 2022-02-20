@@ -1,4 +1,3 @@
-#zadanie 1
 prod = {"piekarnia":['chleb', 'paczek', 'bulka'], "warzywniak":['marchew', 'seler', 'rukola']}
 
 cap_prod = dict()
