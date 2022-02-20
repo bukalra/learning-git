@@ -13,5 +13,4 @@ for keys,values in cap_prod.items():
     print(f'Ide do {keys.capitalize()},kupuje tu nastepujace rzeczy: {cap_prod[keys]}')
 print(f'W sumie kupuje {i} produktow.')
 
-
-
+#zadanie 2 
