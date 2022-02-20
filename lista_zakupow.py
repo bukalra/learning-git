@@ -1,3 +1,4 @@
+#new taks name 
 prod = {"piekarnia":['chleb', 'paczek', 'bulka'], "warzywniak":['marchew', 'seler', 'rukola']}
 
 cap_prod = dict()
